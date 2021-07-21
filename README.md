@@ -30,7 +30,10 @@
 
 
 ## Funkcje
+Strony internetowe:
 - Powiedz `facebook`, a następnie poczekaj na odpowiedź i `imię i nazwisko/nazwę`, aby wyszukać takie profile/wydarzenia na Facebook'u
+- Powiedz `wikipedia` + `fraza do wyszukania`, aby program wyszukał dla nas odpowiedni artykuł na Wikipedii i przeczytał go na głos
+- 
 
 Zadania:
 - Powiedz `wyświetl zadania` albo `pokaż zadania`, aby wyświetlić swoje zapisane w aplikacji zadania 
@@ -48,9 +51,19 @@ Zadania:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+Aby włączyć program, potrzebny jest Python 3.x oraz pobranie następujących bibliotek:
+- `pip3 install speech_recognition`
+- `pip3 install pyttsx3`
+- `pip3 install webbrowser`
+- `pip3 install pyaudio`
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+W razie problemów z instalacją PyAudio, na MacOS powinno zrobić się tak:
+- Zainstaluj Xcode
+Następnie w Terminalu:
+- `xcode-select --install`
+- `brew remove portaudio`
+- `brew install portaudio`
+- `pip3 install pyaudio`
 
 
 ## Usage
@@ -64,16 +77,15 @@ Provide various use cases and code examples here.
 W trakcie rozwijania, możliwości tego programu są niemalże nieograniczone, więc jeżeli masz jakieś propozycje na nową funkcjonalność, zapraszam do kontaktu poniżej.
 
 
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+## Przyszłe aktualizacje
 
-Room for improvement:
-- Improvement to be done 1
+Do poprawienia:
+
+Do dodania:
+- Dodać okno ustawień aplikacji
+- Dać możliwość wyboru ile zdań ma zostać przeczytanych na głos z Wikipedii podczas czytania artykułu (aktualnie 2) w ustawieniach aplikacji
 - Improvement to be done 2
 
-To do:
-- Feature to be added 1
-- Feature to be added 2
 
 <!--
 ## Acknowledgements
