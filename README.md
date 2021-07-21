@@ -56,8 +56,8 @@ Aby włączyć program, potrzebny jest Python 3.x oraz pobranie następujących 
 - `pip3 install pyttsx3`
 - `pip3 install webbrowser`
 - `pip3 install pyaudio`
-\
-\
+
+
 W razie problemów z instalacją PyAudio, na MacOS powinno zrobić się tak:
 - Zainstaluj Xcode
 
