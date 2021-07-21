@@ -82,8 +82,6 @@ W trakcie rozwijania, możliwości tego programu są niemalże nieograniczone, w
 ## Przyszłe aktualizacje
 
 Do poprawienia:
--
--
 
 Do dodania:
 - Dodać okno ustawień aplikacji
