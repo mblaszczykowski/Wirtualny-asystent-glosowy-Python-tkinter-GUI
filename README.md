@@ -1,6 +1,5 @@
 # Project Name
 > Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,33 +10,38 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
+<!-- * [Acknowledgements](#acknowledgements) -->
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
 - Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Python 3.9
+- Python built-in `tkinter` module
+- Python `speech_recognition` module
+- Python `pyttsx3` module
+- Python `webbrowser` module
 
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+## Funkcje
+- Powiedz `facebook`, a następnie poczekaj na odpowiedź i `imię i nazwisko/nazwę`, aby wyszukać takie profile/wydarzenia na Facebook'u
+Zadania:
+- Powiedz `wyświetl zadania` albo `pokaż zadania`, aby wyświetlić swoje zapisane w aplikacji zadania 
+- Powiedz `dodaj zadanie` + `treść zadania do zapisania`, aby zapisać nowe zadanie
+- Powiedz `usuń zadanie` + `numer zadania`, aby usunąć konkretne zadanie
+- Powiedz `usuń wszystkie zadania`, aby usunąć wszystkie zapisane zadania
+- 
+
+- Więcej wkrótce...
 
 
-## Screenshots
+## Zrzuty ekranu
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
@@ -55,8 +59,8 @@ Provide various use cases and code examples here.
 `write-your-code-here`
 
 
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+## Status projektu
+W trakcie rozwijania, możliwości tego programu są niemalże nieograniczone, więc jeżeli masz jakieś propozycje na nową funkcjonalność, zapraszam do kontaktu poniżej.
 
 
 ## Room for Improvement
@@ -70,16 +74,17 @@ To do:
 - Feature to be added 1
 - Feature to be added 2
 
-
+<!--
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...
 - This project was based on [this tutorial](https://www.example.com).
 - Many thanks to...
+-->
 
 
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+## Kontakt
+Mail: michvlbbb@gmail.com
 
 
 <!-- Optional -->
