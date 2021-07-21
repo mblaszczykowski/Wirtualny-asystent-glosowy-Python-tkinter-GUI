@@ -59,6 +59,7 @@ Aby włączyć program, potrzebny jest Python 3.x oraz pobranie następujących 
 
 W razie problemów z instalacją PyAudio, na MacOS powinno zrobić się tak:
 - Zainstaluj Xcode
+
 Następnie w Terminalu:
 - `xcode-select --install`
 - `brew remove portaudio`
