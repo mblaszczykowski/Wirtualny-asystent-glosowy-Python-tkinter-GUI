@@ -1,5 +1,5 @@
 # Wirtualny asystent stworzony w Python z GUI z biblioteką tkinter
-> 
+> Wirtualny asystent z GUI wykonany w języku Python, obsługujący język polski, wykorzystujący moduł speech_recognition do rozpoznawania mowy oraz pyttsx3 do generowania odpowiedzi z użyciem głosu, oferujący wiele funkcji przedstawionych poniżej
 
 ## Bezpośrednie odnośniki
 * [General Info](#general-information)
