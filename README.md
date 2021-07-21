@@ -1,7 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Wirtualny asystent stworzony w Python z GUI z biblioteką tkinter
+> 
 
-## Table of Contents
+## Bezpośrednie odnośniki
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
