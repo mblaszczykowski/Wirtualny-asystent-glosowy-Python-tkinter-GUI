@@ -24,7 +24,7 @@
 ## Technologies Used
 - Python 3.9
 - Python built-in `tkinter` module
-- Python `speech_recognition` module
+- Python `SpeechRecognition` module
 - Python `pyttsx3` module
 - Python `webbrowser` module
 
@@ -52,11 +52,12 @@ Zadania:
 
 ## Setup
 Aby włączyć program, potrzebny jest Python 3.x oraz pobranie następujących bibliotek:
-- `pip3 install speech_recognition`
+- `pip3 install SpeechRecognition`
 - `pip3 install pyttsx3`
 - `pip3 install webbrowser`
-- `pip3 install pyaudio`\\
-
+- `pip3 install pyaudio`
+\
+\
 W razie problemów z instalacją PyAudio, na MacOS powinno zrobić się tak:
 - Zainstaluj Xcode
 
