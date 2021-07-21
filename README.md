@@ -31,6 +31,7 @@
 
 ## Funkcje
 - Powiedz `facebook`, a następnie poczekaj na odpowiedź i `imię i nazwisko/nazwę`, aby wyszukać takie profile/wydarzenia na Facebook'u
+
 Zadania:
 - Powiedz `wyświetl zadania` albo `pokaż zadania`, aby wyświetlić swoje zapisane w aplikacji zadania 
 - Powiedz `dodaj zadanie` + `treść zadania do zapisania`, aby zapisać nowe zadanie
