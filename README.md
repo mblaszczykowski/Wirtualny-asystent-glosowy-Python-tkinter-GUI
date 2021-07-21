@@ -2,26 +2,26 @@
 > Wirtualny asystent głosowy z GUI wykonany w języku Python, obsługujący język polski, wykorzystujący moduł speech_recognition do rozpoznawania mowy oraz pyttsx3 do generowania odpowiedzi z użyciem głosu, oferujący wiele funkcji przedstawionych poniżej
 
 ## Bezpośrednie odnośniki
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
+* [Ogólne informacje](#ogolne-informacje)
+* [Wykorzystane technologie](#wykorzystane-technologie)
+* [Funkcje](#funkcje)
+* [Zrzuty ekranu](#zrzuty-ekranu)
 * [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
+* [Użytkowanie](#użytkowanie)
+* [Status projektu](#status-projektu)
+* [Przyszłe aktualizacje](#przyszłe-aktualizacje)
 <!-- * [Acknowledgements](#acknowledgements) -->
-* [Contact](#contact)
+* [Kontakt](#kontakt)
 <!-- * [License](#license) -->
 
 
-## General Information
+## Ogólne informacje
 - Provide general information about your project here.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
+## Wykorzystane technologie
 - Python 3.9
 - Python built-in `tkinter` module
 - Python `SpeechRecognition` module
@@ -68,7 +68,7 @@ Następnie w Terminalu:
 - `pip3 install pyaudio`
 
 
-## Usage
+## Użytkowanie
 How does one go about using it?
 Provide various use cases and code examples here.
 
