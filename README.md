@@ -32,8 +32,17 @@
 ## Funkcje
 Strony internetowe:
 - Powiedz `facebook`, a następnie poczekaj na odpowiedź i `imię i nazwisko/nazwę`, aby wyszukać takie profile/wydarzenia na Facebook'u
-- Powiedz `wikipedia` + `fraza do wyszukania`, aby program wyszukał dla nas odpowiedni artykuł na Wikipedii i przeczytał go na głos
-- 
+- Powiedz `youtube` + `fraza do wyszukania`, aby program wyświetlił wyniki wyszukiwania tej frazy na YouTube
+- Powiedz `wikipedia` + `fraza do wyszukania`, aby program wyszukał odpowiedni artykuł na Wikipedii i przeczytał go na głos
+- Powiedz `allegro` + `fraza do wyszukiwania`, aby program przeniósł do wyników wyszukiwania tej frazy na Allegro
+- Powiedz `soundcloud` + `nazwa utworu/albumu/artysty`, aby program przeniósł do wyników wyszukiwania tej frazy na SoundCloud
+- Powiedz `grafika` + `nazwa grafiki do wyszukania na Google Grafika`, aby program wyświetlił wyniki
+- Powiedz `mapy` lub `pokaż na mapie` + `adres/nazwę miejsca`, aby program wyświetlił konkretną lokalizację w Mapach Google
+
+Inne:
+- Powiedz `tłumacz` + `fraza do przetłumaczenia` + `na angielski/na polski/na francuski`, aby program przetłumaczył i wymówił oraz wyświetlił konkretną frazę
+- Powiedz `pogoda` + `miasto`, aby program powiedział pogodę dla tego miasta
+
 
 Zadania:
 - Powiedz `wyświetl zadania` albo `pokaż zadania`, aby wyświetlić swoje zapisane w aplikacji zadania 
