@@ -38,20 +38,40 @@ Strony internetowe:
 - Powiedz `soundcloud` + `nazwa utworu/albumu/artysty`, aby program przeniósł do wyników wyszukiwania tej frazy na SoundCloud
 - Powiedz `grafika` + `nazwa grafiki do wyszukania na Google Grafika`, aby program wyświetlił wyniki
 - Powiedz `mapy` lub `pokaż na mapie` + `adres/nazwę miejsca`, aby program wyświetlił konkretną lokalizację w Mapach Google
+- Powiedz `jak dojadę`, aby włączyć Jak Dojadę
 
 Inne:
+- Powiedz `zapisz` + `tekst do zapisania w notatce`, aby program zapisał notatkę na pulpicie
+- Powiedz `przypomnienie` + `czas` + `jednostka czasu (sekund/minut)` + `tytuł jednowyrazowy`, aby ustawić przypomnienie 
+Przykład: `przypomnienie 20 minut obiad`
 - Powiedz `tłumacz` + `fraza do przetłumaczenia` + `na angielski/na polski/na francuski`, aby program przetłumaczył i wymówił oraz wyświetlił konkretną frazę
 - Powiedz `pogoda` + `miasto`, aby program powiedział pogodę dla tego miasta
+- Zawrzyj `godzina` w wypowiedzi, aby program powiedział aktualną godzinę
+Przykład: `która jest godzina?`
+- (*) Powiedz `mail`, aby wysłać maila do osoby wybranej w konfiguracji
 
+(*) Konfigurowalne:
+    Jeśli podałeś ścieżkę:
+        'kalendarz'
+        'kalkulator'
+        'muzyka'
+        'zdjęcia'
+        'książka'
+        'projekty'
+        
+(*) oznacza, że konfigurowalne rzeczy zostaną wkrótce dodane, w panelu menu
 
 Zadania:
 - Powiedz `wyświetl zadania` albo `pokaż zadania`, aby wyświetlić swoje zapisane w aplikacji zadania 
 - Powiedz `dodaj zadanie` + `treść zadania do zapisania`, aby zapisać nowe zadanie
 - Powiedz `usuń zadanie` + `numer zadania`, aby usunąć konkretne zadanie
 - Powiedz `usuń wszystkie zadania`, aby usunąć wszystkie zapisane zadania
-- 
+
 
 - Więcej wkrótce...
+
+
+Jeśli nie zawrzesz żadnej frazy z powyższych, Twoja wypowiedź zostanie wysłana jako zapytanie do Google i wyświetlona w postaci wyników wyszukiwania
 
 
 ## Zrzuty ekranu
@@ -92,19 +112,11 @@ W trakcie rozwijania, możliwości tego programu są niemalże nieograniczone, w
 
 Do poprawienia:
 
+
 Do dodania:
 - Dodać okno ustawień aplikacji
 - Dać możliwość wyboru ile zdań ma zostać przeczytanych na głos z Wikipedii podczas czytania artykułu (aktualnie 2) w ustawieniach aplikacji
-- Improvement to be done 2
-
-
-<!--
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
--->
+- Dodać (*) konfigurowalne rzeczy - możliwość ich konfiguracji 
 
 
 ## Kontakt
