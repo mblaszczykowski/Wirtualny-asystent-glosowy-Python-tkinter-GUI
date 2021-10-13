@@ -51,12 +51,13 @@ Przykład: `która jest godzina?`
 
 (*) Konfigurowalne:
     Jeśli podałeś ścieżkę:
-        'kalendarz'
-        'kalkulator'
-        'muzyka'
-        'zdjęcia'
-        'książka'
-        'projekty'
+        `kalendarz`
+        `kalkulator`
+        `muzyka`
+        `zdjęcia`
+        `książka`
+        `projekty`
+    Program za Ciebie otworzy wybrany folder
         
 (*) oznacza, że konfigurowalne rzeczy zostaną wkrótce dodane, w panelu menu
 
