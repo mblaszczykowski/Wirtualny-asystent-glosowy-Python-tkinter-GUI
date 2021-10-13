@@ -10,7 +10,6 @@
 * [Użytkowanie](#użytkowanie)
 * [Status projektu](#status-projektu)
 * [Przyszłe aktualizacje](#przyszłe-aktualizacje)
-<!-- * [Acknowledgements](#acknowledgements) -->
 * [Kontakt](#kontakt)
 <!-- * [License](#license) -->
 
@@ -111,8 +110,6 @@ W trakcie rozwijania, możliwości tego programu są niemalże nieograniczone, w
 ## Przyszłe aktualizacje
 
 Do poprawienia:
-Na MacOS Big Sur aplikacja wyłącza się po jednym wywołaniu funkcji speak() odpowiadającej za czytanie komunikatów 
-Na Windowsie problemu nie było 
 
 
 Do dodania:
