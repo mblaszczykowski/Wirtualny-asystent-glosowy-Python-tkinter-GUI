@@ -110,7 +110,7 @@ W trakcie rozwijania, możliwości tego programu są niemalże nieograniczone, w
 ## Przyszłe aktualizacje
 
 Do poprawienia:
-
+Na MacOS po wywołaniu funkcji odpowiadającej za mówienie przez program, program crashuje. Na Windows tego nie było.
 
 Do dodania:
 - Dodać okno ustawień aplikacji
