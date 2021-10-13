@@ -98,10 +98,7 @@ Następnie w Terminalu:
 
 
 ## Użytkowanie
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+Kliknij w mikrofon i zacznij mówić, bądź wpisz pożądaną frazę w pole tekstowe.
 
 
 ## Status projektu
@@ -109,7 +106,6 @@ W trakcie rozwijania, możliwości tego programu są niemalże nieograniczone, w
 
 
 ## Przyszłe aktualizacje
-
 Do poprawienia:
 Na MacOS po wywołaniu funkcji odpowiadającej za mówienie przez program, program crashuje. Na Windows tego nie było.
 
