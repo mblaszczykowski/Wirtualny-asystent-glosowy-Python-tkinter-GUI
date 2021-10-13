@@ -29,7 +29,7 @@
 
 
 ## Funkcje
-### Powiedz
+### Powiedz:
 Strony internetowe:
 - Powiedz `facebook`, a następnie poczekaj na odpowiedź i `imię i nazwisko/nazwę`, aby wyszukać takie profile/wydarzenia na Facebook'u
 - Powiedz `youtube` + `fraza do wyszukania`, aby program wyświetlił wyniki wyszukiwania tej frazy na YouTube
@@ -51,14 +51,14 @@ Przykład: `która jest godzina?`
 - (*) Powiedz `mail`, aby wysłać maila do osoby wybranej w konfiguracji
 
 (*) Konfigurowalne:
-    Jeśli podałeś ścieżkę:
+    Jeśli podałeś ścieżkę, powiedz:
         `kalendarz`
         `kalkulator`
         `muzyka`
         `zdjęcia`
         `książka`
         `projekty`
-    Program za Ciebie otworzy wybrany folder
+    A program za Ciebie otworzy wybrany folder.
         
 (*) oznacza, że konfigurowalne rzeczy zostaną wkrótce dodane, w panelu menu
 
@@ -68,11 +68,29 @@ Zadania:
 - Powiedz `usuń zadanie` + `numer zadania`, aby usunąć konkretne zadanie
 - Powiedz `usuń wszystkie zadania`, aby usunąć wszystkie zapisane zadania
 
+### Napisz:
+- Napisz: `wikipedia`/`wiki`+`ilość zdań` + `wydarzenie/frazę/postać`
+Przykład: `wikipedia4 Nikola Tesla`
+Przykład: `wiki3 Elon Musk`
+- Napisz `clear`, aby wyczyścić chat
+- 
+    'mail*<adresodbiorcy@gmail.com>*<tytul>*<tresc>'
+    lub
+    'mail*<adresodbiorcy@gmail.com>*<tresc>'
+
+    'nudzi mi się' lub 'motywacja' lub 'co robić'
+
+    'darkmode', aby włączyć darkmode!
+    'whitemode', aby wrócić do whitemode'a
+
+### Napisz/powiedz:
+    przepisy/danie wegetrianskie
+    przepisy/danie w
+
 
 - Więcej wkrótce...
 
-
-Jeśli nie zawrzesz żadnej frazy z powyższych, Twoja wypowiedź zostanie wysłana jako zapytanie do Google i wyświetlona w postaci wyników wyszukiwania
+###Jeśli nie wymówisz/nie napiszesz żadnej frazy z powyższych, Twoja wypowiedź zostanie wysłana jako zapytanie do Google i wyświetlona w postaci wyników wyszukiwania
 
 
 ## Zrzuty ekranu
