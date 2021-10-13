@@ -29,7 +29,7 @@
 
 
 ## Funkcje
-# Powiedz
+### Powiedz
 Strony internetowe:
 - Powiedz `facebook`, a następnie poczekaj na odpowiedź i `imię i nazwisko/nazwę`, aby wyszukać takie profile/wydarzenia na Facebook'u
 - Powiedz `youtube` + `fraza do wyszukania`, aby program wyświetlił wyniki wyszukiwania tej frazy na YouTube
