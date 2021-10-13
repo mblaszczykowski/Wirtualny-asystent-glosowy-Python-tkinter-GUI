@@ -132,6 +132,13 @@ Do dodania:
 - Dodać okno ustawień aplikacji
 - Dać możliwość wyboru ile zdań ma zostać przeczytanych na głos z Wikipedii podczas czytania artykułu (aktualnie 2) w ustawieniach aplikacji
 - Dodać (*) konfigurowalne rzeczy - możliwość ich konfiguracji 
+- Dać w ustawieniach możliwość dodania maili do najbliższych osób z ich imionami, a następnie wywoływanie ich przez:
+    - "Napisz maila do Pauli" 
+    - "Jaki temat maila?"
+    - "Temat"
+    - "Jaka treść?"
+    - "Treść"
+    - "Mail wysłany"
 
 
 ## Kontakt
